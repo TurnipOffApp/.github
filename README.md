@@ -1,1 +1,1 @@
-# .github
+This open source project provides 5 implementations of the same mobile application. It accompanies the paper submitted to [A-Mobile 2023](https://a-mobile.github.io/), but can also be used by the research community for app comparison and analysis.
